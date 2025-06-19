@@ -5,7 +5,7 @@
 ---
 
 ## 👨‍💻 About Me  
-- 🎓 **3rd-year Engineering Physics student** at **NIT Hamirpur**  
+- 🎓 **Final year Engineering Physics student** at **NIT Hamirpur**  
 - 💻 Passionate about **Software Development & Computer Science**  
 - 🌱 Currently learning **ReactJS, JavaScript, and Backend Development**  
 - 🔭 Working on projects like **Kanban Board, File Sharing Manager, and Calculator App**  
