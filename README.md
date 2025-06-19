@@ -8,14 +8,14 @@
 - 🎓 **Final year Engineering Physics student** at **NIT Hamirpur**  
 - 💻 Passionate about **Software Development & Computer Science**  
 - 🌱 Currently learning **ReactJS, JavaScript, and Backend Development**  
-- 🔭 Working on projects like **Kanban Board, File Sharing Manager, and Calculator App**  
+- 🔭 Working on projects like **Employee Management App, File Sharing Manager, and TradeClover**  
 - ⚡ Love problem-solving, coding challenges, and exploring **DSA in Java**  
 
 ---
 
 ## 🛠️ Tech Stack & Skills  
 🚀 **Languages:** Java, JavaScript, HTML, CSS  
-⚡ **Technologies & Frameworks:** ReactJS, Node.js, Spring Security, GitHub API, Google API  
+⚡ **Technologies & Frameworks:** ReactJS, SpringBoot 
 📌 **Other Skills:** Data Structures & Algorithms (DSA), Git/GitHub, REST APIs  
 
 ---
